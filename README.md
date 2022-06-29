@@ -17,7 +17,7 @@ This work intends to answer these questions.
 
 ### BIBLIOGRAPHIC REFERENCES AND RESOURCES.
 
-[Kaggel] (https://www.kaggle.com/datasets/salehahmedrony/linkedin-digital-data)
+[Kaggel](https://www.kaggle.com/datasets/salehahmedrony/linkedin-digital-data)
 
 [Python functions](https://docs.python.org/3/library/functions.html)
 
