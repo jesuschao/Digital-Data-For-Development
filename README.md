@@ -1,8 +1,26 @@
 # Digital-Data-For-Development
 
-The datasets presented here are ones that underlie the visuals at linkedindata.worldbank.org. The datasets cover four categories of metrics: 1) Industry Employment Shifts, 2) Talent Migration, 3) Industry Skills Needs, and 4) Skill Penetration. LinkedIn and the World Bank Group plan to refresh the data annually at a minimum. The datasets are annual time series and go back to 2015.
+## Analysis of LinkedIn data.
 
-Each category of the metrics is provided in a separate file with a cover sheet listing the variables names, definitions, and caveats. Country coverage varies slightly between metrics because of different data extraction and quality control rules. Countries with at least 100,000 LinkedIn members are included in the datasets. If more countries cross this threshold in the future, new countries can be added during the annual refresh.
+![](https://blogs.iadb.org/administracion-publica/wp-content/uploads/sites/21/2021/07/Digitalization-1536x826.jpg)
+
+### PURPOSE
+
+The aim of this project is to offer an idea through some visualizations about how digital transformation has shaped our work environment. We can see in these graphics the evolution between 2015 and 2019 of growth employment, changes in industry and most demanded skills. Some questions that could be arised would be;
+
+How is the talent distribuited geographically?, which are the target countries for specific industries or skills? or just what the evolution through these last years is like for some specific skills?
+
+This work intends to answer these questions.
 
 
-https://www.kaggle.com/datasets/salehahmedrony/linkedin-digital-data
+![](https://f.hubspotusercontent30.net/hubfs/3277184/FEATURED-SERVICE-talent-mapping.jpg)
+
+### BIBLIOGRAPHIC REFERENCES AND RESOURCES.
+
+[Kaggel] (https://www.kaggle.com/datasets/salehahmedrony/linkedin-digital-data)
+
+[Python functions](https://docs.python.org/3/library/functions.html)
+
+[Stack overflow](https://stackoverflow.com/)
+
+[Pandas](https://pandas.pydata.org/)
