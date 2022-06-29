@@ -10,7 +10,9 @@ The aim of this project is to offer an idea through some visualizations about ho
 
 How is the talent distribuited geographically?, which are the target countries for specific industries or skills? or just what the evolution through these last years is like for some specific skills?
 
-This work intends to answer these questions.
+This work intends to answer these questions. 
+
+Datasets taken from Kaggle has been evaluated and cleaned using Python and all graphics/visualization has been prepared using Power BI.
 
 
 ![](https://f.hubspotusercontent30.net/hubfs/3277184/FEATURED-SERVICE-talent-mapping.jpg)
